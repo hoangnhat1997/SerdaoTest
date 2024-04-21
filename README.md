@@ -13,3 +13,9 @@ Because disable to not use flipper
 - List Beneficiaries: Show Beneficiaries list
 - Create Beneficiary: Create Beneficiaries (Name, IBAN)
 - Transaction : Show Beneficiaries list created previously and able to select a beneficiary and type amount
+
+
+Video Recording
+
+https://github.com/hoangnhat1997/SerdaoTest/assets/83819988/c86be18b-67ee-4629-8ed8-f5b2625773fa
+
